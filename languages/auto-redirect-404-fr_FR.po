@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Redirect 404 in 301 for Trashed Posts\n"
+"POT-Creation-Date: 2013-02-07 17:13+0100\n"
+"PO-Revision-Date: 2013-02-07 17:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: GeekPress <contact@geekpress.fr>\n"
+"Language: Française\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/test-wordpress/wp-content/"
+"plugins/auto-redirect-404\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/test-wordpress/wp-content/"
+"plugins/auto-redirect-404\n"
+
+#: /Applications/MAMP/htdocs/test-wordpress/wp-content/plugins/auto-redirect-404/auto-redirect-404.php:313
+msgid ""
+"By default, the old posts and taxonomies are redirected to the home page of "
+"your site."
+msgstr ""
+"Par défaut, les anciens articles et taxonomies sont redirigés vers la page "
+"d'accueil de votre site."
+
+#: /Applications/MAMP/htdocs/test-wordpress/wp-content/plugins/auto-redirect-404/auto-redirect-404.php:314
+msgid ""
+"The following parameters allow you to change the forwarding address based on "
+"Post Type or Taxonomy."
+msgstr ""
+"Les paramètres ci-dessous vous permettent de modifier l'adresse de "
+"redirection en fonction du Post Type ou de la Taxonomie."
+
+#: /Applications/MAMP/htdocs/test-wordpress/wp-content/plugins/auto-redirect-404/auto-redirect-404.php:379
+msgid "Olds URLs"
+msgstr "Anciennes URLs"
